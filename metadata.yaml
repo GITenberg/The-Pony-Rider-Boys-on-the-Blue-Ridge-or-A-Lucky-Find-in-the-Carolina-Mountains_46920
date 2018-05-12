@@ -1,4 +1,8 @@
 _repo: The-Pony-Rider-Boys-on-the-Blue-Ridge-or-A-Lucky-Find-in-the-Carolina-Mountains_46920
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46920-h/images/cover.jpg
 creator:
   author:
     agent_name: Patchin, Frank Gee
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '1623'
     url: http://www.gutenberg.org/2009/agents/1623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46920#The-Pony-Rider-Boys-on-the-Blue-Ridge-or-A-Lucky-Find-in-the-Carolina-Mountains
 gutenberg_issued: '2014-09-21'
 gutenberg_type: Text
 identifiers:
