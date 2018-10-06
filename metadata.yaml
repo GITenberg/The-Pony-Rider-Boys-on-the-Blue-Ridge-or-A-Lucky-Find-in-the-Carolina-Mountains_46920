@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Pony Rider Boys on the Blue Ridge
 
   or, A Lucky Find in the Carolina Mountains'
